@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorBlueUtama">#14153D</color>
+    <color name="buttonUtama">#FF2667</color>
+    <color name="buttonUtama2">#EA6623</color>
+    <color name="buttonSecondary">#292A50</color>
+    <color name="colorWhite">#F8F8F8</color>
+    <color name="colorGray">#A69F9F</color>
+    <color name="wallet_Balance">#1ABC9C</color>
+</resources>

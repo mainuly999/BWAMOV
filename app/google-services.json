@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28734470319",
+    "firebase_url": "https://belajarmovproject.firebaseio.com",
+    "project_id": "belajarmovproject",
+    "storage_bucket": "belajarmovproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28734470319:android:d111610b52a7f2551e7c5a",
+        "android_client_info": {
+          "package_name": "com.ainul.belajarmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28734470319-42ud3ks1bqs269qfk5ni14edk9rscoh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ainul.belajarmov",
+            "certificate_hash": "b1bae12c121cd0462f0a6a1248c14e2e50101958"
+          }
+        },
+        {
+          "client_id": "28734470319-3k5dacmv45hbbe3msrjhcjuer1vk95rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIYD3nHjlT2MEHedwrgtHEdQAjIq4rFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28734470319-3k5dacmv45hbbe3msrjhcjuer1vk95rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
