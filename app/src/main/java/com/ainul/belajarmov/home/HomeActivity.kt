@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.widget.ImageView
 import androidx.fragment.app.Fragment
 import com.ainul.belajarmov.R
+import com.ainul.belajarmov.home.dashboard.DashboardFragment
 import kotlinx.android.synthetic.main.activity_home.*
 
 class HomeActivity : AppCompatActivity() {
@@ -13,7 +14,8 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
 
-        val fragmentHome = DashboardFragment()
+        val fragmentHome =
+            DashboardFragment()
         val fragmentProfile = ProfileFragment()
         val fragmentTiket = TiketFragment()
 

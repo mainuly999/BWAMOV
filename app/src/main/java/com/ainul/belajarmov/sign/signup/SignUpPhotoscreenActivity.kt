@@ -45,7 +45,7 @@ class SignUpPhotoscreenActivity : AppCompatActivity(), PermissionListener {
         storage = FirebaseStorage.getInstance()
         storageReferensi = storage.getReference()
 
-        tv_hello.text = "Selamat Datang\n" + preferences.getValues("namacuu").toString()
+        tv_hello.text = "Selamat Datang\n" + intent.getStringExtra("namacuu")
 
         btn_ic_add.setOnClickListener {
             if(statusAdd){
