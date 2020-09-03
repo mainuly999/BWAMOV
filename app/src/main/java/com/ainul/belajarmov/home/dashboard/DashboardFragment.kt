@@ -118,9 +118,9 @@ class DashboardFragment : Fragment() {
                 rv_now_playing.adapter = NowPlayingAdapter(dataList){
 
                 }
-                rv_coming_soon.adapter = ComingSoonAdapter(dataList){
-
-                }
+//                rv_coming_soon.adapter = ComingSoonAdapter(dataList){
+//
+//                }
             }
 
         })
